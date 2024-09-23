@@ -1,0 +1,2 @@
+## Conta Bancária
+Este código implementa uma funcionalidade de gerenciamento de contas bancárias, permitindo ao usuário criar uma conta com ou sem depósito inicial, realizar depósitos e saques, e exibir os dados da conta atualizados. O código solicita o número da conta, o nome do titular e pergunta se há um depósito inicial. Se houver, o valor é adicionado à conta no momento da criação. Caso contrário, a conta é criada sem um saldo inicial. Em seguida, o usuário pode realizar depósitos e saques, com os dados da conta sendo atualizados e exibidos após cada operação.
